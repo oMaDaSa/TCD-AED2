@@ -1,0 +1,16 @@
+4 x 4 - #
+aresta 0, 4
+aresta 4, 5
+aresta 5, 9
+aresta 9, 8
+aresta 8, 12
+aresta 9, 13
+aresta 13, 14
+aresta 14, 10
+aresta 10, 6
+aresta 6, 2
+aresta 2, 1
+aresta 10, 11
+aresta 11, 7
+aresta 7, 3
+aresta 11, 15
